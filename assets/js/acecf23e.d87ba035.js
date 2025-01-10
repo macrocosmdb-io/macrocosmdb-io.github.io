@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/macrocosmdb-io.github.io/blog","blogTitle":"Blog","authorsListPath":"/macrocosmdb-io.github.io/blog/authors"}')}}]);
